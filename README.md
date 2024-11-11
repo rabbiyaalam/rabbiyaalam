@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rabbiyaalam
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Web developing
+- 👀 I’m interested in building different Front-end Projects
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on different Front-end Projects
 - 📫 for reaching me out send me a mail @rabbiyaalam820@gmail.com
 - 😄 Pronouns: Raabi.
